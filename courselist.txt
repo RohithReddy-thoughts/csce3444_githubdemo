@@ -5,3 +5,4 @@ data visualiztion
 algos
 usability testing
 artificial intelligence
+machine learning
